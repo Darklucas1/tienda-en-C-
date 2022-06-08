@@ -96,11 +96,11 @@
             // 
             // txtfecha
             // 
-            this.txtfecha.Font = new System.Drawing.Font("Century Gothic", 8.25F, System.Drawing.FontStyle.Italic);
+            this.txtfecha.Font = new System.Drawing.Font("Century Gothic", 18F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtfecha.Format = System.Windows.Forms.DateTimePickerFormat.Short;
             this.txtfecha.Location = new System.Drawing.Point(454, 73);
             this.txtfecha.Name = "txtfecha";
-            this.txtfecha.Size = new System.Drawing.Size(154, 21);
+            this.txtfecha.Size = new System.Drawing.Size(154, 37);
             this.txtfecha.TabIndex = 14;
             // 
             // label5
@@ -171,65 +171,65 @@
             // 
             // txttel
             // 
-            this.txttel.Font = new System.Drawing.Font("Century Gothic", 8.25F, System.Drawing.FontStyle.Italic);
+            this.txttel.Font = new System.Drawing.Font("Century Gothic", 18F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txttel.Location = new System.Drawing.Point(178, 118);
             this.txttel.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txttel.Name = "txttel";
-            this.txttel.Size = new System.Drawing.Size(178, 21);
+            this.txttel.Size = new System.Drawing.Size(178, 37);
             this.txttel.TabIndex = 5;
             // 
             // txtcita
             // 
-            this.txtcita.Font = new System.Drawing.Font("Century Gothic", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.txtcita.Font = new System.Drawing.Font("Century Gothic", 18F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.txtcita.Location = new System.Drawing.Point(178, 75);
             this.txtcita.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtcita.Name = "txtcita";
-            this.txtcita.Size = new System.Drawing.Size(178, 21);
+            this.txtcita.Size = new System.Drawing.Size(178, 37);
             this.txtcita.TabIndex = 4;
             // 
             // txtnom
             // 
             this.txtnom.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
-            this.txtnom.Font = new System.Drawing.Font("Century Gothic", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.txtnom.Font = new System.Drawing.Font("Century Gothic", 18F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.txtnom.Location = new System.Drawing.Point(178, 32);
             this.txtnom.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtnom.Name = "txtnom";
-            this.txtnom.Size = new System.Drawing.Size(178, 21);
+            this.txtnom.Size = new System.Drawing.Size(178, 37);
             this.txtnom.TabIndex = 3;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Century Gothic", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.label3.Font = new System.Drawing.Font("Century Gothic", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.White;
             this.label3.Location = new System.Drawing.Point(67, 121);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(169, 21);
+            this.label3.Size = new System.Drawing.Size(198, 23);
             this.label3.TabIndex = 2;
             this.label3.Text = "Productos Vendidos:";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Century Gothic", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Font = new System.Drawing.Font("Century Gothic", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.White;
             this.label2.Location = new System.Drawing.Point(98, 81);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(74, 21);
+            this.label2.Size = new System.Drawing.Size(85, 23);
             this.label2.TabIndex = 1;
             this.label2.Text = "Factura:";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Century Gothic", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Century Gothic", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(22, 36);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(168, 21);
+            this.label1.Size = new System.Drawing.Size(198, 23);
             this.label1.TabIndex = 0;
             this.label1.Text = "Nombre y Apellidos:";
             // 
